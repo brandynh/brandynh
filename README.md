@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandynh
 - 👀 My interest are, but are not limited to: My family, expanding my knowledge, staying active, playing video games, and tech in general.  
-- 🌱 I’m currently learning full stack coding.
+- 🌱 I’m currently expanding my knowledge as a full-stack web developer.
 - 💞️ I’m looking to collaborate in general.
 - 📫 How to reach me hufferbrandyn@gmail.com
 <!---
